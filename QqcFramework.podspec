@@ -27,7 +27,6 @@ Pod::Spec.new do |s|
 
   s.dependency "QqcLog"
   s.dependency "QqcComFuncDef"
-  s.dependency "QqcParamModel"
   s.dependency "QqcProgressHUD"
   s.dependency "QqcUtilityUI"
   s.dependency "QqcRequest"
